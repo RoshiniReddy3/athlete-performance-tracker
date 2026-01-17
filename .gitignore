@@ -1,0 +1,15 @@
+# Node
+node_modules/
+
+# Vite / React
+frontend/node_modules/
+frontend/dist/
+
+# Backend
+backend/node_modules/
+
+# Database (optional – keep or remove based on requirement)
+backend/database.sqlite
+
+# OS
+.DS_Store
