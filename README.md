@@ -46,4 +46,27 @@ This project is built as part of a technical assessment to demonstrate **CRUD op
 ---
 
 ## 📁 Project Structure
+athlete-performance-tracker/
+│
+├── backend/
+│ ├── routes/
+│ │ ├── athletes.js
+│ │ ├── scores.js
+│ │ └── leaderboard.js
+│ ├── middleware/
+│ │ └── role.js
+│ ├── db.js
+│ ├── index.js
+│ └── database.sqlite
+│
+├── frontend/
+│ ├── src/
+│ │ ├── App.jsx
+│ │ ├── App.css
+│ │ └── main.jsx
+│ └── index.html
+│
+├── .gitignore
+├── package.json
+└── README.md
 
